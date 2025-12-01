@@ -1,5 +1,7 @@
 streamlit
 numpy
 Pillow
+scikit-image
 torch==2.7.0
-opencv-python-headless
+torchvision==0.16.0
+opencv-python-headless==4.10.0.84
