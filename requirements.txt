@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+numpy
+Pillow
+tensorflow       # only if you use TF
+torch            # only if you use PyTorch
+scikit-learn
