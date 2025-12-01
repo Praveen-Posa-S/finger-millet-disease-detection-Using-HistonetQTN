@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv
+*.egg-info/
+*.egg
+
+# Ignore dataset and large artifacts
+ragi dataset/
+*.pth
+Figure_*.png
+g.png
+
+# IDE/editor files
+.idea/
+.vscode/
+
+
