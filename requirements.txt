@@ -1,7 +1,6 @@
 streamlit
-opencv-python
 numpy
 Pillow
-tensorflow       # only if you use TF
-torch            # only if you use PyTorch
-scikit-learn
+opencv-python-headless
+torch==2.1.0
+torchvision==0.16.0
